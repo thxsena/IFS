@@ -4,6 +4,11 @@
 # Criador por Thiago Sena ({S3N4})#
 ###################################
 
+# chmod +x D3c0d.sh
+# ./D3c0d.sh
+
+
+
 #Versão 1.0
 
 sh_Principal () {
