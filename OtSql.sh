@@ -15,6 +15,8 @@
 
 sh_Principal () {
 
+clear
+
 cat <<!
 
 	 Created by Thiago{S3N4}
